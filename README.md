@@ -1,2 +1,5 @@
 # Git-repo-test
-Testing Git with this one 
+
+- Testing Git with this one.
+- Writing something new
+
